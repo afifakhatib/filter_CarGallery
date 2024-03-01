@@ -1,0 +1,11 @@
+body{
+    background-color: navy;
+}
+
+.carImg{
+    height:350px;
+    width:350px;
+    border:2px solid #fff;
+    border-radius: 5px;
+    object-fit: cover;
+}
